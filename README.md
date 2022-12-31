@@ -1,1 +1,1 @@
-# crypto-track-dashboard
+# Crypto Track Dashboard
