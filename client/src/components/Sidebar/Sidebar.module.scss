@@ -1,0 +1,20 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.btnSidebar {
+  cursor: pointer;
+  padding: 1rem 1.5rem;
+  display: flex;
+  flex-direction: row;
+  max-width: 350px;
+  width: 100%;
+  text-decoration: none;
+
+  svg {
+    line-height: 0;
+    margin-right: 0.5rem;
+  }
+}
