@@ -1,5 +1,6 @@
-export const light = {
-  white: '#fff',
+export const defaultTheme = {
+  white: '#ffffff',
+  black: '#000000',
 
   'primary-900': '#200371',
   'primary-800': '#2E0689',
